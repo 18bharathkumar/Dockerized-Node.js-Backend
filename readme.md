@@ -10,32 +10,34 @@ This is a simple backend project to demonstrate setting up the project both manu
 
 To set up the project manually, follow these steps:
 
-1. Clone this repository:
+1. install the latest version of node : set the system environment variables properly 
+
+2. Clone this repository:
    ```bash
    git clone <repository-url>
    ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    cd app
    ```
 
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    npm install
    ```
 
-4. Install `nodemon` for development:
+5. Install `nodemon` for development:
    ```bash
    npm install --save-dev nodemon
    ```
 
-5. Run the project:
+6. Run the project:
    ```bash
    npm run dev
    ```
 
-6. Open your browser or API testing tool (e.g., Postman) and visit:
+7. Open your browser or API testing tool (e.g., Postman) and visit:
    ```
    http://localhost:3000
    ```
@@ -74,8 +76,12 @@ To set up the project using Docker, follow these steps:
 
 ## Advantages of Docker 
 
-1. <h2>Consistent Development Environment<h2>: Docker ensures that all developers are using the exact same environment,<br>
- regardless of the machine they are working on. <br>
- This eliminates the "it works on my machine" problem and helps in maintaining consistency across teams.<br>
+1. <h2>Consistent Development Environment<h2>
+ Docker ensures that all developers are using the exact same environment
+ <br>
+ regardless of the machine they are working on.
+ <br>
+ This eliminates the "it works on my machine" problem and helps in maintaining consistency across teams.
+ 
 
  
