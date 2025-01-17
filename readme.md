@@ -76,7 +76,7 @@ To set up the project using Docker, follow these steps:
 
 ## Advantages of Docker 
 
-1. <h2>Consistent Development Environment<h2>
+1. **Consistent Development Environment**
  Docker ensures that all developers are using the exact same environment
  <br>
  regardless of the machine they are working on.
